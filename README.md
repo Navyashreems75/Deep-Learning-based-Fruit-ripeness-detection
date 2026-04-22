@@ -103,14 +103,13 @@ pandas
 numpy
 ```
 
----
+# output 
 
-## 📁 Project Structure
+# Model Acuuracy 
+<img width="1920" height="1080" alt="Screenshot 2026-04-15 085840" src="https://github.com/user-attachments/assets/68b486d4-be30-46da-8f02-6994a6de0b6a" />
 
-```
-FruitSense/
-├── notebooks/         ← Kaggle notebook (.ipynb)
-├── src/               ← Python scripts
-├── outputs/           ← Saved plots and results
-└── README.md
-```
+# comparing all models accuracy
+<img width="1920" height="1080" alt="Screenshot 2026-04-15 085840" src="https://github.com/user-attachments/assets/0c851072-3b46-4244-91da-4e4ea325546f" />
+
+# predicting the fruit
+<img width="191" height="374" alt="image" src="https://github.com/user-attachments/assets/2174f8d7-cad9-48da-a41c-aecc3248f30b" />
